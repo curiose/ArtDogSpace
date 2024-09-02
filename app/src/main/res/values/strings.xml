@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ArtDogSpace</string>
+    <string name="pesik_gulyaet">Pesik gulyaet</string>
+    <string name="pesik_imperator">Pesik imperator</string>
+    <string name="pesik_narisovan">Narisovanny pesik</string>
+    <string name="pesik_otdyhaet">Pesik otdyhaet</string>
+    <string name="pesik_spit">Pesik spit</string>
+    <string name="pesik_v_trave">Pesik v trave</string>
+    <string name="podpis">Portos (2024)</string>
 </resources>
